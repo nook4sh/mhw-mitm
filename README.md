@@ -9,5 +9,8 @@
 3. Run `mitmproxy.exe -s $env:UserProfile/Downloads/run.py --mode local:MonsterHunterWildsBeta.exe` (in Administrator PowerShell)
 4. Just play it
 
+## Update
+In this script, the online APIs are mocked to null (credit to @[RedPig-Lin](https://github.com/RedPig-Lin)), so you won’t be kicked out of the starting world. However, after completing the first chapter and logging out, you won’t be able to re-enter.
+
 ## Game
 ![nook](./nook.jpg)
